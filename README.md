@@ -14,7 +14,7 @@ A estrutura do projeto deve ser organizada da seguinte maneira:
 ├── zabbix
 │   ├── postgres
 │   └── alertscripts
-└── setup.py
+└── zabbix-installation-docker.py
 ```
 
 - `zabbix/postgres`: Diretório para armazenar dados do PostgreSQL.
@@ -41,7 +41,7 @@ A estrutura do projeto deve ser organizada da seguinte maneira:
 Execute o script `setup.py` para criar a network Docker e iniciar os containers:
 
 ```bash
-python setup.py
+python zabbix-installation-docker.py
 ```
 
 ### Descrição dos Containers
