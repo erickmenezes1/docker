@@ -94,5 +94,5 @@ def create_network():
         print("Erro ao criar a network 'network-zabbix':", e.stderr)
 
 # Executa o script
-#create_network()
+create_network()
 run_docker_containers()
