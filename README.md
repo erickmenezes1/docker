@@ -1,4 +1,4 @@
-Este projeto configura um ambiente de monitoramento completo utilizando Docker para hospedar um servidor Zabbix, frontend, banco de dados PostgreSQL, Grafana e agente Zabbix.
+Este projeto configura um ambiente de monitoramento completo utilizando Docker para hospedar um servidor Zabbix, frontend, banco de dados PostgreSQL e Grafana.
 
 ## Pré-requisitos
 
